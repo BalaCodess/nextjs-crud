@@ -1,0 +1,29 @@
+{
+  "states": [
+    {
+      "id": "CA",
+      "name": "California",
+      "cities": ["Los Angeles", "San Francisco", "San Diego", "Sacramento"]
+    },
+    {
+      "id": "NY",
+      "name": "New York",
+      "cities": ["New York City", "Buffalo", "Rochester", "Albany"]
+    },
+    {
+      "id": "TX",
+      "name": "Texas",
+      "cities": ["Houston", "Dallas", "Austin", "San Antonio"]
+    },
+    {
+      "id": "FL",
+      "name": "Florida",
+      "cities": ["Miami", "Orlando", "Tampa", "Jacksonville"]
+    },
+    {
+      "id": "IL",
+      "name": "Illinois",
+      "cities": ["Chicago", "Aurora", "Rockford", "Joliet"]
+    }
+  ]
+}
